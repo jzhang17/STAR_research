@@ -1,6 +1,5 @@
-# STAR_research
 
-## COVENANTS VIOLATION FREQUENCY AS A MACROECONOMIC INDICATOR 
+# COVENANTS VIOLATION FREQUENCY AS A MACROECONOMIC INDICATOR 
 
 Lenders use loan covenants, an early warning signal of financial distress, to protect their interests. Violations to these covenants are an event of default, and they typically happen before bankruptcy. We hypothesize that the aggregate frequency of firms violating loan covenants can serve as an early indicator of macroeconomic conditions. We test this hypothesis formally by examining whether violations are correlated with and proceed the delinquency rate and the charge-of rate on Commercial and Industrial Loans.
 
